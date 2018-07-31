@@ -1,0 +1,3 @@
+From Cygwin64 Terminal start:
+----------------------------------
+/usr/local/sbin/gearmand.exe -vvv
